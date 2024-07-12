@@ -19,4 +19,4 @@ echo "4. Push the changes to the remote git server"
 git push
  
 echo "Batch execution complete!"
-pause
+exit
